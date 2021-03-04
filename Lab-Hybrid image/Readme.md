@@ -1,0 +1,2 @@
+A hybrid image is an image that is perceived in one of two different ways, depending on viewing distance, based on the way humans process visual input.
+![A hybrid image constructed from low-frequency components of a photograph of Marilyn Monroe (left inset) and high-frequency components of a photograph of Albert Einstein (right inset).](https://en.wikipedia.org/wiki/File:Hybrid_image_decomposition.jpg)
