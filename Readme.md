@@ -5,3 +5,5 @@
 - Image shifting
 - Image Rotations
 - Cropping Image
+- Histogram
+- Hybrid Image
