@@ -6,4 +6,7 @@
 - Image Rotations
 - Cropping Image
 - Histogram
+- Image Pyramid 
+- Arithmatic Operation
+- Bitwise Operation 
 - Hybrid Image
