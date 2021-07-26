@@ -1,5 +1,8 @@
- LAB Manual Index
+![](https://th.bing.com/th/id/OIP.jhTF9yfFmYgXSRWKW3uo9gHaEC?pid=ImgDet&rs=1)
 
+-------------------------
+ LAB Manual Index
+--------------------------
 - Grey colouring image
 - Color spaces
 - Image shifting
