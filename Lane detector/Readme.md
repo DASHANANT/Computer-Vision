@@ -1,7 +1,7 @@
 # Lane detection using computer vision 
 
 
-Interested Region
+Lane Region
 =======
 
 ![Interested Region](https://github.com/DASHANANT/Computer-Vision-_OpenCV_LAB/blob/main/Lane%20detector/intreseted_region.png)
@@ -13,10 +13,10 @@ Edge Detection Using Canny edge detector
 
 
 
-Edge Detection Using Canny edge detector
+Interested Region
 =======
 
-![Lane](https://github.com/DASHANANT/Computer-Vision-_OpenCV_LAB/blob/main/Lane%20detector/lane_thresholding.png)
+![Lane](https://github.com/DASHANANT/Computer-Vision-_OpenCV_LAB/blob/main/Lane%20detector/cropped_Lane.png)
 
 
 Output
